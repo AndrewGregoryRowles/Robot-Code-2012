@@ -4,5 +4,7 @@ We had to complete this robot in a 6 week timeframe. However, this did not mean 
 
 During the competition, the program performed without error and our team ranked 3/60.
 
-[Imgur Album of robot](http://imgur.com/a/kbLwB)
-[Youtube videos of robot](http://www.youtube.com/playlist?list=PLebTuQpVDBv08lhn1163DgNOkvl1kNam_)
+* [Imgur Album of robot](http://imgur.com/a/kbLwB)
+* [Youtube videos of robot](http://www.youtube.com/playlist?list=PLebTuQpVDBv08lhn1163DgNOkvl1kNam_)
+
+Some artifact methods and code may exist. This is the production code, so the artifacts had to remain in the event quick changes were required.
